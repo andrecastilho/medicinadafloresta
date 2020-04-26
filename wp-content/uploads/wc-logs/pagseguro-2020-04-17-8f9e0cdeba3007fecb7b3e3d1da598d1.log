@@ -1,0 +1,89 @@
+04-17-2020 @ 13:15:30 - Requesting session ID...
+04-17-2020 @ 13:15:30 - PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => b57121a71df04d54a64654923c13e39a
+)
+
+04-17-2020 @ 13:54:03 - Requesting session ID...
+04-17-2020 @ 13:54:03 - PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => 7ef1767de9ce475aa879f5e6b3ec4401
+)
+
+04-17-2020 @ 13:55:15 - Requesting direct payment for order 59 with the following data: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<payment>
+  <mode>default</mode>
+  <method>boleto</method>
+  <currency>BRL</currency>
+  <notificationURL><![CDATA[http://localhost/medicinadafloresta/wc-api/WC_PagSeguro_Gateway/]]></notificationURL>
+  <items>
+    <item>
+      <id>1</id>
+      <description><![CDATA[Rapé Samaúma]]></description>
+      <amount>40.00</amount>
+      <quantity>1</quantity>
+    </item>
+  </items>
+  <reference><![CDATA[WC-59]]></reference>
+  <sender>
+    <email><![CDATA[ANDRECASTILHO007@HOTMAIL.COM]]></email>
+    <documents>
+      <document>
+        <type>CPF</type>
+        <value>30748438882</value>
+      </document>
+    </documents>
+    <name><![CDATA[Joao silva]]></name>
+    <phone>
+      <areaCode>11</areaCode>
+      <number>99999999</number>
+    </phone>
+    <hash>7923b902b1314afbc7b11d17ade6bbd000acf52d13bb3428898a65d0d285c0c1</hash>
+  </sender>
+  <shipping>
+    <type>3</type>
+    <address>
+      <street><![CDATA[rua 6]]></street>
+      <number>25</number>
+      <district><![CDATA[por do sol 2]]></district>
+      <postalCode>37130000</postalCode>
+      <city><![CDATA[Sempre Bela]]></city>
+      <state>MG</state>
+      <country>BRA</country>
+    </address>
+    <cost>0</cost>
+  </shipping>
+</payment>
+
+04-17-2020 @ 13:55:17 - PagSeguro direct payment created successfully!
+04-17-2020 @ 13:55:17 - PagSeguro payment status for order 59 is: 1
+04-17-2020 @ 16:26:19 - Requesting session ID...
+04-17-2020 @ 16:26:19 - PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => 7fb53cc6fccf49f0b5829c6065c5220a
+)
+
+04-17-2020 @ 17:45:37 - Requesting session ID...
+04-17-2020 @ 17:45:41 - PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => 9abb40c440814d11863e30bf2690914b
+)
+
+04-17-2020 @ 18:24:28 - Requesting session ID...
+04-17-2020 @ 18:24:30 - PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => bab56c9c11564526bdad3dc6fd70ae42
+)
+
+04-17-2020 @ 18:49:44 - Requesting session ID...
+04-17-2020 @ 18:49:45 - PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => 216d081be39742edbda8c9344b20991b
+)
+
+04-17-2020 @ 18:51:12 - Requesting session ID...
+04-17-2020 @ 18:51:19 - PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => 6eef7b4271b54840952b2661c57befec
+)
+

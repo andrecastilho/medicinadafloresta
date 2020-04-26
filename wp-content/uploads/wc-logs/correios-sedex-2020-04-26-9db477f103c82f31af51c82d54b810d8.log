@@ -1,0 +1,70 @@
+04-26-2020 @ 17:46:39 - Weight and cubage of the order: Array
+(
+    [weight] => 0,15
+    [height] => 10
+    [width] => 11
+    [length] => 16
+)
+
+04-26-2020 @ 17:46:39 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04014&nCdEmpresa&sDsSenha&sCepDestino=37136248&sCepOrigem=37136248&nVlAltura=10&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,25&nCdFormato=1&sCdMaoPropria=S&nVlValorDeclarado=50&sCdAvisoRecebimento=S&StrRetorno=xml
+04-26-2020 @ 17:46:39 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04014
+            [Valor] => 35,44
+            [PrazoEntrega] => 4
+            [ValorSemAdicionais] => 21,00
+            [ValorMaoPropria] => 7,50
+            [ValorAvisoRecebimento] => 6,35
+            [ValorValorDeclarado] => 0,59
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+04-26-2020 @ 17:46:42 - Weight and cubage of the order: Array
+(
+    [weight] => 0,15
+    [height] => 10
+    [width] => 11
+    [length] => 16
+)
+
+04-26-2020 @ 17:46:42 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04014&nCdEmpresa&sDsSenha&sCepDestino=37136248&sCepOrigem=37136248&nVlAltura=10&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,25&nCdFormato=1&sCdMaoPropria=S&nVlValorDeclarado=50&sCdAvisoRecebimento=S&StrRetorno=xml
+04-26-2020 @ 17:46:43 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04014
+            [Valor] => 35,44
+            [PrazoEntrega] => 4
+            [ValorSemAdicionais] => 21,00
+            [ValorMaoPropria] => 7,50
+            [ValorAvisoRecebimento] => 6,35
+            [ValorValorDeclarado] => 0,59
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+

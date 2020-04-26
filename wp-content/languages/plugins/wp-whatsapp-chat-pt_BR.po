@@ -1,0 +1,416 @@
+# Translation of Plugins - WP Social Chat - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - WP Social Chat - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-04-22 18:48:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - WP Social Chat - Stable (latest release)\n"
+
+#: includes/models/Box.php:14
+msgid "Write a response"
+msgstr "Escreva sua mensagem"
+
+#: includes/view/backend/pages/box.php:31
+msgid "Write a response text."
+msgstr "Escreva um texto de resposta."
+
+#: includes/view/backend/pages/box.php:28
+msgid "Response"
+msgstr "Resposta"
+
+#: includes/notices.php:86
+msgid "Settings"
+msgstr "Configurações"
+
+#: includes/models/Contact.php:26
+msgid "Hello! I'm John from the support team."
+msgstr "Oi! Eu sou John do suporte."
+
+#: includes/models/Button.php:14
+msgid "How can I help you?"
+msgstr "Como posso te ajudar?"
+
+#: includes/notices.php:54
+msgid "Report a bug"
+msgstr "Informar um erro"
+
+#: includes/notices.php:51
+msgid "Yes, of course!"
+msgstr "Claro!"
+
+#: includes/notices.php:48
+msgid "Could you please give it a 5-star rating on WordPress? We know its a big favor, but we've worked very much and very hard to release this great product. Your feedback will boost our motivation and help us promote and continue to improve this product."
+msgstr "Você poderia nos avaliar com 5 estrelas no WordPress? Sabemos que é um grande favor, mas trabalhamos muito para entregar esse produto. Seu feedback vai nos ajudar a continuar melhorando ele."
+
+#: includes/notices.php:46
+msgid "Hello! Thank you for choosing the %s plugin!"
+msgstr "Oi! Obrigado por escolher o %s plugin!"
+
+#: includes/view/backend/pages/display.php:126
+#: includes/view/backend/pages/modals/contact/panel-footer.php:3
+#: includes/view/backend/pages/box.php:39
+#: includes/view/backend/pages/scheme.php:49
+#: includes/view/backend/pages/button.php:113
+msgid "Save"
+msgstr "Salvar"
+
+#: includes/view/backend/pages/modals/contact/panel-contact-chat.php:7
+msgid "Disabled"
+msgstr "Desabilitado"
+
+#: includes/view/backend/pages/modals/contact/panel-contact-chat.php:5
+msgid "Enabled"
+msgstr "Habilitado"
+
+#: includes/view/backend/pages/modals/contact/panel-contact.php:14
+msgid "Lastname"
+msgstr "Último nome"
+
+#: includes/view/backend/pages/modals/contact/panel-contact.php:7
+msgid "Firstname"
+msgstr "Primeiro nome"
+
+#: includes/view/backend/pages/modals/contact/panel-info.php:16
+msgid "Upload"
+msgstr "Enviar"
+
+#. Author of the plugin
+#: includes/view/backend/pages/parts/header.php:26
+msgid "QuadLayers"
+msgstr "QuadLayers"
+
+#: includes/controllers/SchemeController.php:13
+msgid "Colors"
+msgstr "Cores"
+
+#: includes/controllers/DisplayController.php:12
+msgid "Display"
+msgstr "Exibir"
+
+#: includes/controllers/BoxController.php:12
+msgid "Box"
+msgstr "Caixa"
+
+#: includes/controllers/WelcomeController.php:10
+msgid "Welcome"
+msgstr "Bem-vindo"
+
+#: includes/view/backend/pages/button.php:54
+msgid "Leave a discrete link to developer to help and keep new updates and support."
+msgstr "Deixe um link discreto para o desenvolvedor para ajudar e manter novas atualizações e suporte."
+
+#: includes/view/backend/pages/button.php:52
+msgid "Hide developer link"
+msgstr "Ocultar link do desenvolvedor"
+
+#: includes/view/backend/pages/button.php:51
+msgid "Show developer link"
+msgstr "Mostrar link do desenvolvedor"
+
+#: includes/view/backend/pages/button.php:48
+msgid "Discreet link"
+msgstr "Link discreto"
+
+#: includes/view/backend/pages/button.php:76
+msgid "Message that will automatically appear in the text field of a chat."
+msgstr "Mensagem que aparecerá automaticamente no campo de texto do chat."
+
+#: includes/view/backend/pages/button.php:41
+msgid "Add Icon"
+msgstr "Adicionar ícone"
+
+#: includes/view/backend/pages/button.php:38
+msgid "Icon"
+msgstr "Ícone"
+
+#: includes/view/backend/pages/button.php:68
+msgid "Full phone number in international format."
+msgstr "Número de telefone completo em formato internacional."
+
+#: includes/view/backend/pages/button.php:61
+msgid "Customize your text."
+msgstr "Personalize o texto do botão Trocar nome de usuário."
+
+#: includes/view/backend/pages/button.php:58
+msgid "Text"
+msgstr "Texto"
+
+#: includes/view/backend/pages/button.php:34
+msgid "Switch to change the button position."
+msgstr "Mude para alterar a posição do botão."
+
+#: includes/view/backend/pages/button.php:32
+msgid "Bottom Right"
+msgstr "Base à direita"
+
+#: includes/view/backend/pages/button.php:31
+msgid "Bottom Left"
+msgstr "Em baixo à esquerda"
+
+#: includes/view/backend/pages/button.php:30
+msgid "Middle Right"
+msgstr "Meio á direita"
+
+#: includes/view/backend/pages/button.php:29
+msgid "Middle Left"
+msgstr "Meio à esquerda"
+
+#: includes/view/backend/pages/button.php:26
+msgid "Position"
+msgstr "Posição"
+
+#: includes/view/backend/pages/button.php:22
+msgid "Add rounded border to the button."
+msgstr "Adicione a borda arredondada ao botão."
+
+#: includes/view/backend/pages/button.php:20
+msgid "Remove rounded border"
+msgstr "Remover borda arredondada"
+
+#: includes/view/backend/pages/button.php:19
+msgid "Add rounded border"
+msgstr "Adicionar borda arredondada"
+
+#: includes/view/backend/pages/button.php:16
+msgid "Rounded"
+msgstr "Arredondado"
+
+#: includes/view/backend/pages/button.php:12
+msgid "Switch to change the button layout."
+msgstr "Mude para alterar o layout do botão."
+
+#: includes/view/backend/pages/button.php:10
+msgid "Bubble"
+msgstr "Bolha"
+
+#: includes/view/backend/pages/button.php:9
+#: includes/controllers/ButtonController.php:12
+msgid "Button"
+msgstr "Botão"
+
+#: includes/view/backend/pages/button.php:6
+msgid "Layout"
+msgstr "Layout"
+
+#: includes/view/backend/pages/welcome.php:30
+msgid "Submit ticket"
+msgstr "Enviar chamado"
+
+#: includes/view/backend/pages/welcome.php:26 includes/models/Contact.php:25
+msgid "Support"
+msgstr "Ajuda"
+
+#: includes/view/backend/pages/welcome.php:23
+msgid "View demo"
+msgstr "Ver demonstração"
+
+#: includes/view/backend/pages/welcome.php:19
+#: includes/view/backend/pages/parts/header.php:9
+msgid "Demo"
+msgstr "Demonstração"
+
+#: includes/view/backend/pages/welcome.php:16
+msgid "Join us"
+msgstr "Junte-se a nós"
+
+#: includes/view/backend/pages/welcome.php:12
+msgid "Community"
+msgstr "Comunidade"
+
+#: includes/view/backend/pages/welcome.php:7
+msgid "Hello we're QuadLayers! We've recently acquired this plugin and this is the first update. We have worked very much and very hard to release it, and we will do our absolute best to support it and fix all the issues."
+msgstr "Olá nós somos a QuadLayers! Nós adquirimos recentemente este plugin e esta é a primeira atualização. Temos trabalhado muito e muito duro para liberá-lo, e vamos fazer o nosso melhor para fornecer suporte e corrigir todos os problemas."
+
+#: includes/view/backend/pages/contacts.php:24
+msgid "Actions"
+msgstr "Ações"
+
+#: includes/view/backend/pages/modals/contact/panel-contact-chat.php:3
+#: includes/view/backend/pages/contacts.php:20
+msgid "Chat"
+msgstr "Chat"
+
+#: includes/view/backend/pages/modals/contact/panel-contact.php:23
+#: includes/view/backend/pages/contacts.php:17
+#: includes/view/backend/pages/button.php:65
+msgid "Phone"
+msgstr "Telefone"
+
+#: includes/view/backend/pages/contacts.php:16
+msgid "Avatar"
+msgstr "Avatar"
+
+#: includes/controllers/ContactController.php:12
+msgid "Contacts"
+msgstr "Contatos"
+
+#: includes/view/backend/pages/box.php:21
+msgid "Footer"
+msgstr "Rodapé"
+
+#: includes/view/backend/pages/box.php:15
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: includes/view/backend/pages/box.php:10
+msgid "Disable contact box"
+msgstr "Desativar caixa de contato"
+
+#: includes/view/backend/pages/box.php:9
+msgid "Enable contact box"
+msgstr "Ativar caixa de contato"
+
+#: includes/view/backend/pages/box.php:6
+msgid "Disable"
+msgstr "Desativar"
+
+#: includes/view/backend/pages/premium.php:66
+msgid "Type user message"
+msgstr "Escrever mensagem do usuário"
+
+#: includes/view/backend/pages/premium.php:62
+msgid "You can choose the predefined user message that will be sent to the agent phone number."
+msgstr "Você pode escolher a mensagem de usuário predefinida que será enviada para o número de telefone do agente."
+
+#: includes/view/backend/pages/premium.php:60
+msgid "Custom user message"
+msgstr "Mensagem personalizada do usuário"
+
+#: includes/view/backend/pages/premium.php:54
+msgid "Custom agent message"
+msgstr "Mensagem personalizada do agente"
+
+#: includes/view/backend/pages/premium.php:41
+#: includes/view/backend/pages/premium.php:46
+msgid "Chatbox interface"
+msgstr "Interface do ChatBox"
+
+#: includes/view/backend/pages/premium.php:27
+msgid "Custom icons"
+msgstr "Ícones personalizados"
+
+#: includes/view/backend/pages/premium.php:21
+msgid "Customize colors"
+msgstr "Personalizar cores"
+
+#: includes/view/backend/pages/premium.php:15
+msgid "Multiple agents"
+msgstr "Vários agentes"
+
+#: includes/view/backend/pages/premium.php:11
+msgid "Get Support"
+msgstr "Obter ajuda"
+
+#: includes/view/backend/pages/premium.php:10
+msgid "Purchase Now"
+msgstr "Compre agora"
+
+#: includes/view/backend/pages/modals/contact/panel-info.php:23
+#: includes/view/backend/pages/premium.php:5
+#: includes/view/backend/pages/premium.php:34 includes/notices.php:85
+#: includes/controllers/PremiumController.php:8
+msgid "Premium"
+msgstr "Premium"
+
+#: includes/view/backend/pages/display.php:53
+msgid "Select for %s&hellip;"
+msgstr "Selecione para %s&hellip;"
+
+#: includes/view/backend/pages/display.php:36
+#: includes/view/backend/pages/modals/contact/panel-visibility.php:28
+msgid "If you select an option all the other will be excluded"
+msgstr "Se você selecionar uma opção todas as outras serão excluídas"
+
+#: includes/view/backend/pages/display.php:33
+msgid "Search"
+msgstr "Pesquisar"
+
+#: includes/view/backend/pages/display.php:32
+msgid "Blog"
+msgstr "Blog"
+
+#: includes/view/backend/pages/display.php:31
+msgid "Home"
+msgstr "InÍcio"
+
+#: includes/view/backend/pages/display.php:17
+#: includes/view/backend/pages/modals/contact/panel-visibility.php:15
+msgid "Target"
+msgstr "Alvo"
+
+#: includes/view/backend/pages/display.php:12
+msgid "Hide in all devices"
+msgstr "Ocultar em todos os dispositivos"
+
+#: includes/view/backend/pages/display.php:11
+msgid "Show in desktop devices"
+msgstr "Mostrar no computador"
+
+#: includes/view/backend/pages/display.php:10
+msgid "Show in mobile devices"
+msgstr "Mostrar nos dispositivos móveis"
+
+#: includes/view/backend/pages/display.php:9
+msgid "Show in all devices"
+msgstr "Mostrar em todos dispositivos"
+
+#: includes/view/backend/pages/display.php:6
+#: includes/view/backend/pages/modals/contact/panel-visibility.php:4
+msgid "Devices"
+msgstr "Dispositivos"
+
+#: includes/view/backend/pages/contacts.php:18
+#: includes/view/backend/pages/scheme.php:39
+msgid "Name"
+msgstr "Nome"
+
+#: includes/view/backend/pages/modals/contact/panel-contact.php:30
+#: includes/view/backend/pages/contacts.php:19
+#: includes/view/backend/pages/scheme.php:32
+msgid "Label"
+msgstr "Rótulo"
+
+#: includes/view/backend/pages/modals/contact/panel-contact-chat.php:13
+#: includes/view/backend/pages/contacts.php:21
+#: includes/view/backend/pages/scheme.php:25
+#: includes/view/backend/pages/button.php:73
+msgid "Message"
+msgstr "Mensagem"
+
+#: includes/view/backend/pages/display.php:73
+#: includes/view/backend/pages/modals/contact/panel-contact-chat.php:8
+#: includes/view/backend/pages/modals/contact/panel-contact.php:49
+#: includes/view/backend/pages/scheme.php:21
+#: includes/view/backend/pages/scheme.php:28
+#: includes/view/backend/pages/scheme.php:35
+#: includes/view/backend/pages/scheme.php:42
+#: includes/view/backend/pages/button.php:42
+#: includes/view/backend/pages/button.php:86
+#: includes/view/backend/pages/button.php:96
+msgid "This is a premium feature"
+msgstr "Esta é um recurso da versão Premium"
+
+#: includes/view/backend/pages/scheme.php:18
+msgid "Link"
+msgstr "Link"
+
+#: includes/view/backend/pages/scheme.php:12
+msgid "Color"
+msgstr "Cor"
+
+#: includes/view/backend/pages/scheme.php:6
+msgid "Background"
+msgstr "Fundo"
+
+#. Author URI of the plugin
+msgid "https://quadlayers.com"
+msgstr "https://quadlayers.com"
+
+#. Plugin Name of the plugin
+msgid "WhatsApp Chat"
+msgstr "WhatsApp Chat"

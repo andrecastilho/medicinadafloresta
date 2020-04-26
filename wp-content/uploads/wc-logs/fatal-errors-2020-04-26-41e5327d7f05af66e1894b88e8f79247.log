@@ -1,0 +1,4 @@
+2020-04-26T12:01:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded, em C:\xampp\htdocs\medicinadafloresta\wp-content\plugins\elementor\includes\autoloader.php, na linha 267
+
+2020-04-26T12:02:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded, em C:\xampp\htdocs\medicinadafloresta\wp-includes\wp-db.php, na linha 2024
+

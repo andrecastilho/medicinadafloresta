@@ -1,0 +1,7 @@
+<wpml-config>
+  <admin-texts>
+    <key name="qlwcdc_add_archive_text_content"/>
+    <key name="qlwcdc_add_product_text_content"/>
+    <key name="qlwcdc_add_product_quick_purchase_text"/>
+  </admin-texts>
+</wpml-config>

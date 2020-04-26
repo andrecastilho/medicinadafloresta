@@ -1,0 +1,14 @@
+2020-04-20T13:02:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded, em C:\xampp\htdocs\medicinadafloresta\wp-includes\wp-db.php, na linha 2024
+
+2020-04-20T13:03:01+00:00 CRITICAL Maximum execution time of 30 seconds exceeded, em C:\xampp\htdocs\medicinadafloresta\wp-includes\l10n.php, na linha 1360
+
+2020-04-20T13:03:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded, em C:\xampp\htdocs\medicinadafloresta\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-settings.php, na linha 11
+
+2020-04-20T13:03:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded, em C:\xampp\htdocs\medicinadafloresta\wp-content\plugins\woocommerce-services\classes\class-wc-connect-help-view.php, na linha 3
+
+2020-04-20T13:03:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded, em C:\xampp\htdocs\medicinadafloresta\wp-content\plugins\elementor-pro\modules\forms\fields\date.php, na linha 7
+
+2020-04-20T13:03:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded, em C:\xampp\htdocs\medicinadafloresta\wp-content\plugins\elementor-pro\modules\forms\actions\mailchimp.php, na linha 12
+
+2020-04-20T13:53:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded, em C:\xampp\htdocs\medicinadafloresta\wp-includes\Requests\Transport\cURL.php, na linha 163
+

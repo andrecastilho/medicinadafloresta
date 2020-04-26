@@ -1,0 +1,6 @@
+2020-04-19T00:02:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded, em C:\xampp\htdocs\medicinadafloresta\wp-includes\Requests\Transport\cURL.php, na linha 441
+
+2020-04-19T00:04:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded, em C:\xampp\htdocs\medicinadafloresta\wp-includes\Requests\Transport\cURL.php, na linha 441
+
+2020-04-19T00:04:40+00:00 CRITICAL Maximum execution time of 30 seconds exceeded, em C:\xampp\htdocs\medicinadafloresta\wp-includes\Requests\Transport\cURL.php, na linha 441
+
