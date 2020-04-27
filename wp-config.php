@@ -20,10 +20,10 @@
 
 // ** Configurações do MySQL - Você pode pegar estas informações com o serviço de hospedagem ** //
 /** O nome do banco de dados do WordPress */
-define( 'DB_NAME', 'medicinadafloresta' );
+define( 'DB_NAME', 'medicinadaflores' );
 
 /** Usuário do banco de dados MySQL */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'medicinadaflores' );
 
 /** Senha do banco de dados MySQL */
 define( 'DB_PASSWORD', 'admexon2007' );
