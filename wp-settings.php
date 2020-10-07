@@ -73,7 +73,7 @@ wp_unregister_GLOBALS();
 wp_fix_server_vars();
 
 // Check if we're in maintenance mode.
-wp_maintenance();
+wp_maintenance(false);
 
 // Start loading timer.
 timer_start();
